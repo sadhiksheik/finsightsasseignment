@@ -1,0 +1,60 @@
+.{
+  margin: 0px;
+  padding: 0px;
+}
+.heading{
+  color: rgb(72, 26, 72);
+  font-weight: bold;
+  font-size: 40px;
+}
+.paragraph{
+  color: rgb(127, 120, 120);
+  font-style: 16px;
+  font-weight: 400;
+}
+.bg-container{
+  background-color: white;
+  height: 100vh;
+}
+.ratings-container{
+  background-color: aqua;
+  padding: 10px;
+  border-radius: 10px;
+  padding-bottom: 0px;
+}
+.star{
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+  background-color: transparent;
+  
+}
+.ratings-para{
+  font-size: 16px;
+  color: rgb(8, 8, 54);
+  font-weight: 500;
+}
+.profile{
+  height: 40px;
+  width: 40px;
+  border-radius: 20px;
+}
+.profile-name{
+  font-size: 15px;
+  color: white;
+  margin-left: 20px;
+}
+.profile-name-verification{
+  font-size: 15px;
+  color: gray;
+  margin-left: 20px;
+}
+.review-para{
+  color: white;
+  font-size: 10px; 
+}
+.cards{
+  background-color: purple;
+  border-radius: 10px;
+}
+
