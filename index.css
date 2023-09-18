@@ -13,26 +13,31 @@
   font-weight: 400;
 }
 .bg-container{
-  background-color: white;
   height: 100vh;
+  background-color: rgb(230, 171, 112);
+}
+.main-card{
+  background-color: rgb(225, 235, 244);
+  border-radius: 10px;
 }
 .ratings-container{
   background-color: aqua;
-  padding: 10px;
+ padding: 10px;
   border-radius: 10px;
-  padding-bottom: 0px;
+ 
 }
 .star{
-  height: 20px;
-  width: 20px;
-  margin-right: 10px;
-  background-color: transparent;
-  
+  height: 15px;
+  width: 15px;
+  margin-right: 5px;
+  margin: 0px;
+  margin-right: 5px;
 }
 .ratings-para{
   font-size: 16px;
   color: rgb(8, 8, 54);
   font-weight: 500;
+  margin: 0px;
 }
 .profile{
   height: 40px;
